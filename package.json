@@ -1,8 +1,8 @@
 {
-  "name": "Facebook",
+  "name": "Automation_script_Instagram",
   "version": "1.0.0",
   "description": "",
-  "main": "index-Puppeteer.js",
+  "main": "script-insta.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
